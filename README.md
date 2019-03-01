@@ -1,3 +1,6 @@
+# =======================================
+# Update: FistBump is no longer distributed from this repo, Head over to the [Handshake Alliance](https://github.com/HandshakeAlliance/fistbump) repo for updates
+# =======================================
 # FistBump
 An open source search for Handshake TLDs
 
